@@ -10,6 +10,7 @@ dotenv.config();
 connectDB();
 
 const app = express();
+app.disable("x-powered-by");
 
 /* ============================
    Middleware
