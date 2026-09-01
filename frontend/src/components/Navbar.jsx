@@ -5,7 +5,7 @@ import {
   Heading,
   HStack,
   Text,
-} from "@chakra-ui/react";
+// } from "@chakra-ui/react";
 
 function Navbar({
   openAddModal,
